@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.34601.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Flächenzeichnung", "Flächenzeichnung\Flächenzeichnung.pyproj", "{56FFC15E-2A0B-4A0A-87D0-EECE564513DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FFC15E-2A0B-4A0A-87D0-EECE564513DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FFC15E-2A0B-4A0A-87D0-EECE564513DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBAEA766-1331-45AD-B5B1-E43FE8E1839E}
+	EndGlobalSection
+EndGlobal
